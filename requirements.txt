@@ -1,0 +1,3 @@
+pygraphviz~=1.7
+imageio~=2.9.0
+Pillow~=8.4.0
